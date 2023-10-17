@@ -1,0 +1,47 @@
+	{
+		"Magyar beállítások": {
+			"prefix": "!hu",
+			"body": [
+				"<!DOCTYPE html>",
+				"<html lang=\"hu\">",
+				"",
+				"<head>",
+				"    <meta charset=\"utf-8\">",
+				"    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">",
+				"    <meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">",
+				"    <link rel=\"stylesheet\" href=\"assets/css/style.css\">",
+				"    <title>${1:TITLE}</title>",
+				"</head>",
+				"",
+				"<body>",
+				"",
+				"</body>",
+				"",
+				"</html>",
+				"<script src=\"assets/js/main.js\"></script>"
+			],
+		},
+
+		"English settings": {
+			"prefix": "!en",
+			"body": [
+				"<!DOCTYPE html>",
+				"<html lang=\"en\">",
+				"",
+				"<head>",
+				"    <meta charset=\"utf-8\">",
+				"    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">",
+				"    <meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">",
+				"    <link rel=\"stylesheet\" href=\"assets/css/style.css\">",
+				"    <title>${1:TITLE}</title>",
+				"</head>",
+				"",
+				"<body>",
+				"",
+				"</body>",
+				"",
+				"</html>",
+				"<script src=\"assets/js/main.js\"></script>"
+			],
+		}
+	}
